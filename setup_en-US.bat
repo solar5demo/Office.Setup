@@ -1,0 +1,1 @@
+.\setup.exe /configure .\installOffice2019Std_en-US.xml
