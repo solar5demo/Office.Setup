@@ -1,10 +1,10 @@
 # Office Standard 2019 Setup
 
 English Version
-./setup_en-US.bat
+    ./setup_en-US.bat
 
 Chinese Version
-./setup_zh-CN.bat
+    ./setup_zh-CN.bat
 
 # reference
 
